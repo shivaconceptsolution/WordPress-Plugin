@@ -1,0 +1,18 @@
+#mysection
+{
+	background-color: cyan;
+}
+
+#mysection input[type="text"]
+{
+	width:300px;
+	height: 30px;
+	background-color: orange;
+}
+
+#mysection input[type="submit"]
+{
+	width:200px;
+	height: 30px;
+	background-color: orange;
+}
